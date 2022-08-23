@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.add-new-category ,.add-new-Product, .added-products-box{
+    width: 600px;
+}
+.delete-btn:hover{
+color: red;
+}
